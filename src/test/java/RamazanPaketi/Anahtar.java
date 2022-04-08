@@ -6,7 +6,7 @@ public class Anahtar {
 
         System.out.println("Hos Geldin Ya Sehr-i Ramazan");
 
-
+        System.out.println("Nasilsin Veysel Abim?");
     }
 
 }
