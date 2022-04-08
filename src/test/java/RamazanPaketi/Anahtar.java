@@ -9,6 +9,8 @@ public class Anahtar {
         System.out.println("Nasilsin Veysel Abim?");
 
         System.out.println("Istanbul' da Hava Sicakligi Kac Derecedir?");
+
+        System.out.println("Ramazan Paketinin Icinde Ne Var");
     }
 
 }
