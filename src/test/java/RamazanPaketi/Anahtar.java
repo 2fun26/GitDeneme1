@@ -7,6 +7,8 @@ public class Anahtar {
         System.out.println("Hos Geldin Ya Sehr-i Ramazan");
 
         System.out.println("Nasilsin Veysel Abim?");
+
+        System.out.println("Istanbul' da Hava Sicakligi Kac Derecedir?");
     }
 
 }
