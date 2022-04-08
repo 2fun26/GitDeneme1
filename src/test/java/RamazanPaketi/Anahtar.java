@@ -17,6 +17,8 @@ public class Anahtar {
         System.out.println("Emanet' i izliyorum.");
 
         System.out.println("Sen Evde Neler Yapiyorsun?");
+        
+        System.out.println("Kapida Ne Asilidir?");
     }
 
 }
