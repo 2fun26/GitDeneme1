@@ -1,5 +1,7 @@
 package RamazanPaketi;
 
+import java.sql.SQLOutput;
+
 public class Anahtar {
 
     public static void main(String[] args) {
@@ -13,6 +15,8 @@ public class Anahtar {
         System.out.println("Ramazan Paketinin Icinde Ne Var");
         
         System.out.println("Emanet' i izliyorum.");
+
+        System.out.println("Sen Evde Neler Yapiyorsun?");
     }
 
 }
