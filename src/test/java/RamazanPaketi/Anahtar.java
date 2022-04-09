@@ -19,6 +19,8 @@ public class Anahtar {
         System.out.println("Sen Evde Neler Yapiyorsun?");
         
         System.out.println("Kapida Ne Asilidir?");
+
+        System.out.println("Kisitlama eklendi.");
     }
 
 }
