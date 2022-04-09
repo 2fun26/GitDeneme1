@@ -23,6 +23,8 @@ public class Anahtar {
         System.out.println("Kisitlama eklendi.");
 
         System.out.println("Brach' imi olusturdum.");
+        
+        System.out.println("Direkt pull edebilecek misin?");
     }
 
 }
