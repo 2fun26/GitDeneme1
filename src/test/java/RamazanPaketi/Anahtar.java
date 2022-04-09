@@ -21,6 +21,8 @@ public class Anahtar {
         System.out.println("Kapida Ne Asilidir?");
 
         System.out.println("Kisitlama eklendi.");
+
+        System.out.println("Brach' imi olusturdum.");
     }
 
 }
